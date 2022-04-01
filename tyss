@@ -1,0 +1,5 @@
+class tyss{
+public static void main(){
+System.out.println("I am TYSS");
+}
+}
